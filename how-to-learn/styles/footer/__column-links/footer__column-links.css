@@ -1,0 +1,11 @@
+/* Свойства колонки с ссылками */
+.footer__column-links {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color:#fff;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    padding-bottom: 16px;
+  }

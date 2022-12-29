@@ -1,0 +1,8 @@
+/* Свойства заголовка подтаблицы с размерами и расположением в подтаблице*/
+.table__heading {
+    display: flex;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+  }

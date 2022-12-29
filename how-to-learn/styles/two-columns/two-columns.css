@@ -1,0 +1,10 @@
+/* Свойства колонок в блоке digits с указанием размеров и расположением на странице*/
+.two-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 100px;
+    margin: 0 auto;
+    width: 80%;
+    align-self: center;
+  }

@@ -1,0 +1,12 @@
+/* Свойства картинки с размерами и расположением */
+.header__main-illustration {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 765px;
+    height: 608px;
+    display: block;
+    background: none;
+    z-index: 2;
+  }
+  

@@ -1,0 +1,7 @@
+/* Свойства логотипа блока footer с размерами и расположением */
+.logo_place_footer {
+    display: flex;
+    align-self: flex-start;
+    width: 228px;
+    height: 32px;
+  }

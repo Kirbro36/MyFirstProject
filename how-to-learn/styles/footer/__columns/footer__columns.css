@@ -1,0 +1,8 @@
+/* Свойства колонок блока footer с размерами и расположением */
+.footer__columns {  
+    display: flex;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+  }

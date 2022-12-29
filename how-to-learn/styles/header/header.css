@@ -1,0 +1,11 @@
+/* Свойства блока header с ограничениями, размерами и расположением */
+.header {
+    height: 100vh;
+    max-height: 756px;
+    position: relative;
+    background: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* выше установили ограничения для секции */
+  }

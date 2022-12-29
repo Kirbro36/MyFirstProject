@@ -1,0 +1,8 @@
+/* Свойства ссылок*/
+.footer__column-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color:#fff;
+    margin: 0;
+  }

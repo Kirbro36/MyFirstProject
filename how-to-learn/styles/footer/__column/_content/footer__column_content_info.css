@@ -1,0 +1,5 @@
+/* Свойства информационной колонки про Яндекс.Практикум */
+.footer__column_content_info {
+    display: flex;
+    flex-direction: column;
+  }

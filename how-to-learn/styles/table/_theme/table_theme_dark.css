@@ -1,0 +1,13 @@
+/* Свойства таблицы блока kaufman с размерами и расположением */
+.table_theme_dark {
+    display: flex;
+    justify-content: space-between;
+    align-self: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 2;
+  }

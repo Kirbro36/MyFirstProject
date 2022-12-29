@@ -1,0 +1,6 @@
+/* Свойства колонки с социальными сетями */
+.footer__column_content_social {
+    display: flex;
+    flex-direction: column;
+  }
+  

@@ -1,0 +1,7 @@
+/* Свойства блока feynman с цветом и расположением на странице */
+.feynman {
+    background: #f2f2f2;
+    min-height: 890px;
+    position: relative;
+  }
+  

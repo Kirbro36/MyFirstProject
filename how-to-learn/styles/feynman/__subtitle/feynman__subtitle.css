@@ -1,0 +1,12 @@
+/* Свойства подзаголовка блока feynman с размерами и расположением */
+.feynman__subtitle {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin: 0;
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: normal;
+    z-index: 2;
+    padding-top: 70px;
+  }

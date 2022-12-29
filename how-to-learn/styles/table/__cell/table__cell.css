@@ -1,0 +1,7 @@
+/* Свойства подтаблицы с размерами и расположением в таблице*/
+.table__cell {
+    display: flex;
+    width: 250px;
+    padding-top: 60px;
+    flex-direction: column;
+  }

@@ -1,0 +1,11 @@
+/* Свойства таблицы с размерами и расположением */
+.table {
+    display: flex;
+    justify-content: space-between;
+    align-self: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+  } 

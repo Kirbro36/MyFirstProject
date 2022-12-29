@@ -1,0 +1,5 @@
+/* Свойства блока digits с указанием отступов */
+.digits {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }

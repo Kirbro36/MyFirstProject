@@ -1,0 +1,9 @@
+/* Свойства блока kaufman с заданным цветом фона, размерами и расположением на странице */
+.kaufman {
+    background-color: #1f1f1f;
+    color: #fff;
+    overflow: hidden;
+    padding-bottom: 90px;
+    position: relative;
+    z-index: 0;
+  }
